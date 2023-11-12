@@ -4,10 +4,10 @@
         "OpenButton": 0,
         "HideIcon": false,
         "HideIconAfter": 60,
-        "IconURL": "https://i.imgur.com/3MZywOH.png",
+        "IconURL": "https://i.imgur.com/vqO5tFd.png",
         "DisableIconText": false,
         "IconPosition": 1,
-        "IconTextColor": 7,
+        "IconTextColor": 0,
         "OpenOnStart": true,
         "OpenOnStartOnlyNewPlayers": true,
         "UpdateInterval": 12
