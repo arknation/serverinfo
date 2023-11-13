@@ -25,11 +25,13 @@
         }
       },
     ],
-    "links": [
+   "links": [
       {
         "link1": {
-          "text": "Join the ARKNATION Discord",
-          "url": "www.dsc.gg/arknation"
+          "text": "Link to Wiki",
+          "url": "https://github.com/DC-Modding/WBUI2-Wiki/wiki"      
         }
       }
     ]
+  }
+}
