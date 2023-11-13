@@ -19,8 +19,8 @@
           "buttontext": "Welcome Survivor!",
           "title1": "ARKNATION ASCENDED 10xH/G/B/T",
           "text1": "Welcome to the untamed world of ARK: Survival Ascended!\n\nPrepare to embark on an epic journey in the prehistoric wilderness, where danger and adventure await at every turn. Whether you're a seasoned survivor or a fresh-faced recruit, our community is here to help you thrive in the untamed world of ARK: Survival Ascended.\n\nRemember to read our server rules in the server discord channel game-server-rules and don't hesitate to reach out to our moderators if you have any questions or concerns. If the game server is having issues or you need an admin, please make a post in the server-support channel and a admin will take a look at it. We're here to make your ARK experience the best it can be.\n\nSo, grab your gear, saddle up your dinos, and get ready for an unforgettable adventure. \n\nWelcome to the ARKNATION ASCENDED!",
-          "title2": "Test",
-          "text2": "test2",
+          "title2": "Server Updates",
+          "text2": "I made changes to the imprinting times but if they still need to be adjusted again let me know! Please post in the #server-support channel on the Discord server. You can click the button below to join it.\n\nThanks,\nSwitchBack - ARKNATION Server Administrator",
           "imageurl": "https://i.imgur.com/hpMQ6AM.jpg"
         }
       },
@@ -34,38 +34,38 @@
       },
       {
         "link2": {
-          "text": "Wiki",
-          "url": "https://github.com/DC-Modding/WBUI2-Wiki/wiki"
+          "text": "",
+          "url": ""
         }
       },
       {
         "link3": {
-          "text": "CurseForge",
-          "url": "https://www.curseforge.com/ark-survival-ascended/mods/wbui2"
+          "text": "",
+          "url": ""
         }
       },
       {
         "link4": {
-          "text": "JSON-Validator",
-          "url": "https://jsonlint.com"
+          "text": "",
+          "url": ""
         }
       },
       {
         "link5": {
-          "text": "Github",
-          "url": "https://github.com"
+          "text": "",
+          "url": ""
         }
       },
       {
         "link6": {
-          "text": "Imgur",
-          "url": "https://imgur.com"
+          "text": "",
+          "url": ""
         }
       },
       {
         "link7": {
-          "text": "Example JSON",
-          "url": "https://raw.githubusercontent.com/DC-Modding/WBUI2-Wiki/main/example.json"
+          "text": "",
+          "url": ""
         }
       }
     ]
