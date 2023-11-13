@@ -28,44 +28,10 @@
     "links": [
       {
         "link1": {
-          "text": "Discord",
-          "url": "https://discord.com/invite/K7NyrTV"
+          "text": "Join the ARKNATION Discord",
+          "url": "https"//www.dsc.gg/arknation"
         }
-      },
-      {
-        "link2": {
-          "text": "",
-          "url": ""
-        }
-      },
-      {
-        "link3": {
-          "text": "",
-          "url": ""
-        }
-      },
-      {
-        "link4": {
-          "text": "",
-          "url": ""
-        }
-      },
-      {
-        "link5": {
-          "text": "",
-          "url": ""
-        }
-      },
-      {
-        "link6": {
-          "text": "",
-          "url": ""
-        }
-      },
-      {
-        "link7": {
-          "text": "",
-          "url": ""
+      }      
         }
       }
     ]
