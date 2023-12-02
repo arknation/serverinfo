@@ -18,7 +18,7 @@
           "layout": 4,
           "buttontext": "Welcome Survivor!",
           "title1": "",
-          "text1": "<img src="https://www.arknation.net/img/logo.png">",
+          "imageurl": "https://www.arknation.net/img/logo.png",
           "title2": "Server News - 11/30",
           "text2": "<TextStyle.Yellow>Our new website and support ticket system will be online starting Monday Dec 4th. You will be able to find out server info, join our discord and if you have any issues with the server, game related problems or anything that you need help from an Admin, you can submit a ticket for help.</>",
           "title3": "Server Updates - 12/02",
