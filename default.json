@@ -20,7 +20,7 @@
           "title1": "ARKNATION ASCENEDED 10x H/G/B/T",
           "text1": "",           
           "title2": "Server News - 11/30",
-          "text2": "<TextStyle.Green>The new website is live! www.arknation.net, You can now submit a trouble ticket for any server or game issues you might have and an Admin will take a look at it.</>",
+          "text2": "<TextStyle.Green>The new website is live! www.arknation.net, You can click the Visit ARKNATION.NET tab below. You can also click the Submit Support Ticket tab to launch the support system directly.</>",
           "title3": "Server Updates - 12/05",
           "text3": "<TextStyle.Green>Server Status: OK</>",
           "title4": "ARKNATION Server Rules",
@@ -32,8 +32,20 @@
    "links": [
       {
         "link1": {
-          "text": "Join the ARKNATION Discord",
-          "url": "https://dsc.gg/arknation"      
+          "text": "Join our Discord",
+          "url": "https://discord.gg/39yWpCTqtW"
+        }
+      },
+      {
+        "link2": {
+          "text": "Visit ARKNATION.NET",
+          "url": "https://www.arknation.net"
+        }
+      },
+      {
+        "link3": {
+          "text": "Submit Support Ticket",
+          "url": "https://www.arknation.net/submit-ticket/"            
         }
       }
     ]
