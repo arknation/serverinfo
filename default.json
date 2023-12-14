@@ -45,7 +45,13 @@
       {
         "link3": {
           "text": "Submit Support Ticket",
-          "url": "https://www.arknation.net/submit-ticket/"            
+          "url": "https://www.arknation.net/submit-ticket/"
+        }
+      },
+      {
+        "link4": {
+          "text": "Vote for us on ARK-SERVERS.NET",
+          "url": "https://ark-servers.net/server/355559/vote/"
         }
       }
     ]
