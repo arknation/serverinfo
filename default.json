@@ -20,7 +20,7 @@
           "title1": "ARKNATION ASCENEDED 10x H/G/B/T",
           "text1": "",           
           "title2": "Server News - 11/30",
-          "text2": "<TextStyle.Green>The new website is live! www.arknation.net, You can click the Visit ARKNATION.NET tab below. You can also click the Submit Support Ticket tab to launch the support system directly.</>",
+          "text2": "<TextStyle.Green>I added a Vote 4 Us button to the bottom of the Welcome screen, this is to vote for us on Ark-Servers! the more votes the higher we are listed on the site which means more players!\n\nPlease Vote!</>",
           "title3": "Server Updates - 12/12",
           "text3": "<TextStyle.Green>The server got set to PVPVE and a lot of people got wiped by a player so the server has been reset due to this error. We apologize again for all the issues with the server the last few days.</>",
           "title4": "ARKNATION Server Rules",
@@ -44,13 +44,13 @@
       },
       {
         "link3": {
-          "text": "Submit Support Ticket",
+          "text": "Submit Ticket",
           "url": "https://www.arknation.net/submit-ticket/"
         }
       },
       {
         "link4": {
-          "text": "Vote for us on ARK-SERVERS.NET",
+          "text": "Vote 4 us on Ark-Servers",
           "url": "https://ark-servers.net/server/355559/vote/"
         }
       }
